@@ -3,12 +3,12 @@ vision is our college event in which we are celebrating all technical and nontec
 ## Technologies to build the website
 HTML,CSS,javascript,Bootsrap
 ## Home Page 
-![Home Page](https://raw.githubusercontent.com/ShardulDabgar/SVIT_Vision2k19/tree/main/resources/vision_web_ss/HomePage.png)
+![Home Page](https://raw.githubusercontent.com/ShardulDabgar/SVIT_Vision2k19/main/resources/vision_web_ss/HomePage.png)
 
 ## Event Page 
-![Event Page](https://raw.githubusercontent.com/ShardulDabgar/SVIT_Vision2k19/tree/main/resources/vision_web_ss/EventPage.png)
+![Event Page](https://raw.githubusercontent.com/ShardulDabgar/SVIT_Vision2k19/main/resources/vision_web_ss/EventPage.png)
 
 ## OurTeam Page 
-![Vision Team Page](https://raw.githubusercontent.com/ShardulDabgar/SVIT_Vision2k19/tree/main/resources/vision_web_ss/OurTeam.png)
+![Vision Team Page](https://raw.githubusercontent.com/ShardulDabgar/SVIT_Vision2k19/main/resources/vision_web_ss/OurTeam.png)
 
 
