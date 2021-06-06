@@ -1,5 +1,6 @@
 # vision2k19
 vision is our college event in which we are celebrating all technical and nontechnical events with that we also arrange workshop for students to learn and grow in their career. this is project of website which displays all activities of vision and also the team worked a lot to make this event successful.
+## Live: https://sharduldabgar.github.io/SVIT_Vision2k19.github.io/
 ## Technologies to build the website
 HTML,CSS,javascript,Bootsrap
 ## Home Page 
